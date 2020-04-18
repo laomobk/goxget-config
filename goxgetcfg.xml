@@ -1,0 +1,7 @@
+<xrepos>
+    <repo>
+        <pkg-name>golang.org/x/term</pkg-name>
+        <repl-repo>https://gitee.com/LaomoBK/golang-x-term.git</repl-repo>
+        <website>gitee</website>
+    </repo>
+</xrepos>
